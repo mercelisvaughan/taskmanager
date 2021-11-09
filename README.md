@@ -6,7 +6,7 @@ Scrum is a type of software development that helps teams organize, plan, and rev
 	The product experience will leave the user with an understanding of what they and their teammates need to complete and see each other’s progress. It will include real time updates and push notifications. The value of the app to the user is clear, friends and peers can greatly benefit from this app, students complete group projects and start businesses frequently. The market for this app is huge, everyday people are coming together with their ideas and this application can help them keep track perfectly and look at the data logged. This app will be used regularly by users in work environments to see updates on the team and their progress. The objective of the application is clear, help teams keep track of progress in a work environment. This application will be perfect for small businesses that need to keep track of team progress as a whole. I’d like for more features to be added as time progresses. This app will be a challenging application to complete, we will be implementing features from Parse and other applications.
 	
 - [x] Story 1: Establish layout/UI for application
-- [ ] Story 2: Connect UI to backend
+- [x] Story 2: Add task posts for users to add tasks
 - [ ] Story 3: Create database for users 
 - [ ] Story 4: Implement task update in real time
 - [ ] Story 5: Implement past tasks feature 
