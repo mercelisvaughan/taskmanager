@@ -7,7 +7,7 @@ Scrum is a type of software development that helps teams organize, plan, and rev
 	
 - [x] Story 1: Establish layout/UI for application
 - [x] Story 2: Add task posts for users to add tasks
-- [ ] Story 3: Create database for users 
+- [x] Story 3: Create menu
 - [ ] Story 4: Implement task update in real time
 - [ ] Story 5: Implement past tasks feature 
 - [ ] Story 6: Test
