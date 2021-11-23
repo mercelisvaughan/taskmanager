@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    <item android:id="@+id/calendar"
+        android:title="Calendar" />
+    <item android:id="@+id/notifications"
+        android:title="Notifications" />
+    <item android:id="@+id/user"
+        android:title="User" />
+</menu>
